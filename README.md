@@ -1,4 +1,4 @@
-# RNN
+# Experiments RNN
 
 |exp|depth|max_length|Seq_len|Model|lrate|BATCHSIZE|EPOCH|Optimizer|Criterion|loss|val_loss|MAE|MAPE|MDAP|MSE|RMSE|r2|
 |---|-----|----------|-------|---|-----|---------|-----|---------|---------|----|--------|---|----|----|---|----|--|
